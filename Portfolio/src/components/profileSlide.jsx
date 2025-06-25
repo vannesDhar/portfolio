@@ -28,7 +28,7 @@ export default function Profile(){
                     <h1> I'm Vannes</h1>
                     <div className="links">
                         <h4>Hey there! I’m a programmer who’s obsessed with figuring out how tech works. From front-end flair to back-end logic — I’m all in.</h4>
-                        <a href="../src/assets/resume.pdf" download> Resume </a>
+                        <a href="/resume.pdf" download> Resume </a>
                         <a href="https://github.com/vannesDhar" > Github </a>
                         <a href="https://www.linkedin.com/in/vannes-dharmawan-a170892ab/" > LinkedIn </a>
                     </div>
